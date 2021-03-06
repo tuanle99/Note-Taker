@@ -4,6 +4,10 @@
 
 This is a note taking application that allow the user to record their note.
 
+## Application
+
+[Click Here](https://bootcamp-homework-note-taker.herokuapp.com/)
+
 ## Table of Contents
 
 - [Application Demo](#applicaiton-demo)
