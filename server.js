@@ -4,7 +4,7 @@ const fs = require("fs");
 const uniqid = require("uniqid");
 
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 const database = "./db/db.json";
 let rawdata = fs.readFileSync(database);
